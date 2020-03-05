@@ -1,4 +1,4 @@
-# tec-Ferrite-Core-Memory
+## tec-FERRITE-CORE-MEMORY
 
 Adapt for the tec-1 and play!
 
