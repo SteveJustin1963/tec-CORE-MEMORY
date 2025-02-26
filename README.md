@@ -1,9 +1,9 @@
 ```
-There once was a man full of needs,  
-Who tamed all his circuits with beads.  
-With ferrite so grand,  
-No noise in demand,  
-Now silence is all that he heeds!
+A hacker from days of old creed,  
+Made RAM with a ferrite bead.  
+His SBC groaned,  
+But memory honed,  
+A trick that the ancients decreed!
 ```
 
 
