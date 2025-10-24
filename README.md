@@ -2,7 +2,7 @@
 
 ```
 A hacker of the ancient creed did groan,
-so he made better memoria volatilis from ferrite beads.
+so he made memoria volatilis from ferrite beads.
 It soothed his old computatrum,
 with new memory crafted and sharply honed,
 A trick the ancients now decree!
