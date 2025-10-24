@@ -1,11 +1,11 @@
 
 
 ```
-** A hacker of the ancient creed did groan,
+A hacker of the ancient creed did groan,
 On ferrite memoria volatilis alone,
 With beads of iron, sharply honed,
 He soothed his old computatrum’s tone—
-A craft the ancients’ lore has sown! ** 
+A craft the ancients’ lore has sown!  
 
 ```
 
