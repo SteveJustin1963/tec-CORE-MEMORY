@@ -1,11 +1,11 @@
 
 
 ```
-A hacker of the ancient creed did groan,
-so he made memoria volatilis from ferrite beads.
-It soothed his old computatrum,
-with new memory crafted and sharply honed,
-A trick the ancients now decree!
+** A hacker of the ancient creed did groan,
+On ferrite memoria volatilis alone,
+With beads of iron, sharply honed,
+He soothed his old computatrum’s tone—
+A craft the ancients’ lore has sown! ** 
 
 ```
 
