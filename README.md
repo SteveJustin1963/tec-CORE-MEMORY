@@ -1,12 +1,11 @@
-<img width="400" height="912" alt="image" src="https://github.com/user-attachments/assets/976e0bb0-79f4-419b-8c9c-58ab1fb25539" />
 
 
 ```
-A hacker of the ancient creed,
-Made better memoria volatilis from ferrite beads.
-It soothed his old computatrum not groan,
-With memory crafted, sharply honed,
-A trick the ancients still decree!
+A hacker of the ancient creed did groan,
+so he made better memoria volatilis from ferrite beads.
+It soothed his old computatrum,
+with new memory crafted and sharply honed,
+A trick the ancients now decree!
 
 ```
 
