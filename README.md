@@ -1,9 +1,13 @@
+<img width="555" height="1000" alt="image" src="https://github.com/user-attachments/assets/0091d2d4-3007-42a0-a68b-fd0856125a5a" />
+
+
 ```
-A hacker from days old creed,  
- made RAM with oh little ferrite beads.  
-  His old SBC did groan,  
-   But memory was well honed,  
-    A trick that the ancients still decree!
+A hacker of the ancient creed,
+Made better memoria volatilis from ferrite beads.
+It soothed his old computatrum not groan,
+With memory crafted, sharply honed,
+A trick the ancients still decree!
+
 ```
 
 
