@@ -1,9 +1,9 @@
 ```
-A hacker from days of old creed,  
-Made RAM with a ferrite bead.  
-His SBC groaned,  
-But memory honed,  
-A trick that the ancients decreed!
+A hacker from days old creed,  
+ made RAM with oh little ferrite beads.  
+  His old SBC did groan,  
+   But memory was well honed,  
+    A trick that the ancients still decree!
 ```
 
 
